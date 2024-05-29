@@ -1,0 +1,16 @@
+class Question2{
+      public static void main(String args[]){
+             string name="Sakith Muthula";
+             int age=20;
+             char group='A';
+             float weight=75.6
+             float height=175.3;
+         System.out.println("Name : " + name);
+         System.out.println("Age : " + age);
+         System.out.println("Weight: " +weight); 
+         System.out.println("Height: " +height);
+         
+
+      }
+}
+             
